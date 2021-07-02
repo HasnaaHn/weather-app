@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="first_screen_button_text">C\'est parti !</string>
+
+    <string-array name="loading_messages_array">
+        <item>Nous téléchargeons les données…</item>
+        <item>C\'est presque fini…</item>
+        <item>Plus que quelques secondes avant d\'avoir le résultat…</item>
+    </string-array>
+
+    <string-array name="cities_array">
+        <item>Rennes</item>
+        <item>Paris</item>
+        <item>Nantes</item>
+        <item>Bordeaux</item>
+        <item>Lyon</item>
+    </string-array>
+
+    <string name="loading_message_one">Nous téléchargeons les données…</string>
+    <string name="loading_message_two">C\'est presque fini…</string>
+    <string name="loading_message_three">Plus que quelques secondes avant d\'avoir le résultat…</string>
+
+    <string name="city_name_rennes">Rennes</string>
+    <string name="city_name_paris">Paris</string>
+    <string name="city_name_nantes">Nantes</string>
+    <string name="city_name_bordeaux">Bordeaux</string>
+    <string name="city_name_lyon">Lyon</string>
+
+    <string name="weather_temperature">%s °C</string>
+
+    <string name="error_message">Erreur lors de la récupération des données</string>
+</resources>
